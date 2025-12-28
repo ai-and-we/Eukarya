@@ -34,7 +34,7 @@ This project is:
 - 🇬🇧 [Quintessence – English](Quintessence_EN.md)
 
 **Further material**
-- 📄 Background report (coming soon)
+- 📄 [Background Report – German PDF](Report_DE.pdf)
 
 ---
 
@@ -60,5 +60,4 @@ Feel free to:
 Eukarya belongs to no one —
 and therefore to everyone who cares.
 
-## Further material
-- 📄 [Background Report – German PDF](01_Bericht zur Projektvision __Eukarya__.pdf)
+
