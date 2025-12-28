@@ -30,7 +30,7 @@ This project is:
 ## Contents
 
 ## Core idea / Quintessence
-- 🇩🇪 [Quintessenz – German](🇩🇪 Quintessence_DE.md)
+- 🇩🇪 [Quintessenz – German](Quintessence_DE.md)
 - 🇬🇧 [Quintessence – English](Quintessence_EN.md)
 
 **Further material**
