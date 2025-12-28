@@ -2,6 +2,10 @@
 
 **Eukarya** is an open conceptual framework for a decentralized, human and responsible AI future.
 
+“Eukarya” is named after the biological domain of complex, living,
+interconnected life. That is the idea:
+AI as something plural, embedded, human and responsible.
+
 It starts from a simple premise:
 AI is not only a technical challenge —
 it is cultural, ethical, psychological and political.
