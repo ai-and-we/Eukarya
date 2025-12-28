@@ -61,4 +61,4 @@ Eukarya belongs to no one —
 and therefore to everyone who cares.
 
 ## Further material
-- 📄 [Background Report – German PDF](Report_DE.pdf)
+- 📄 [Background Report – German PDF](01_Bericht zur Projektvision __Eukarya__.pdf)
