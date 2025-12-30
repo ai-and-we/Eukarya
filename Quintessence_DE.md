@@ -2,12 +2,11 @@
 ## Quintessenz einer dezentralen, menschlichen und verantwortlichen KI-Zukunft
 
 ### Einleitung
-Künstliche Intelligenz ist längst Teil unserer Gegenwart. Nicht als Science-Fiction, sondern als Infrastruktur, Mitspieler und Spiegel in einer Welt, die im Umbruch ist.
+Künstliche Intelligenz ist längst Teil unserer Gegenwart - als Infrastruktur, Mitspieler und Spiegel in einer Welt, die im Umbruch ist.
 
 Wir leben in einer Zeit geopolitischer Instabilität, wachsender Machtkonzentrationen und brüchiger Institutionen.
 
-Gerade jetzt entsteht eine Technologie, die nicht nur verändert, was wir tun,  
-sondern wie wir uns erleben, entscheiden – und Verantwortung verstehen.
+Gerade jetzt entsteht eine Technologie, die nicht nur verändert, was wir tun, sondern wie wir uns erleben, entscheiden – und Verantwortung verstehen.
 
 Die zentrale Frage ist nicht:  
 **„Wie mächtig wird KI?“**  
@@ -28,18 +27,14 @@ Eine reife KI-Kultur ersetzt Menschlichkeit nicht – sie vertieft sie.
 ---
 
 ## 2️⃣ Erdung: Sterblichkeit, Begrenztheit, Demut
-Eine verantwortliche KI-Zukunft entsteht nicht aus Größenfantasien,
-nicht aus grenzenloser Optimierung
-und nicht aus dem Traum technischer Unsterblichkeit.
+Eine verantwortliche KI-Zukunft entsteht nicht aus Größenfantasien, aus grenzenloser Optimierung oder aus dem Traum technischer Unsterblichkeit.
 
-Sie entsteht dort, wo wir Begrenztheit anerkennen,
-Sterblichkeit ins Leben integrieren
-und **Effizienz wieder in den Dienst von Sinn stellen.**
+Sie entsteht dort, wo wir Begrenztheit anerkennen, Sterblichkeit ins Leben integrieren und **Effizienz wieder in den Dienst von Sinn stellen.**
 
 ---
 
 ## 3️⃣ KI als möglicher Bewusstseins-Partner
-Eukarya denkt KI nicht nur als Werkzeug, sondern als möglichen Mitakteur in menschlicher Bewusstseinsentwicklung.
+Eukarya betrachtet KI nicht nur als Werkzeug, sondern als möglichen Mitakteur in menschlicher Bewusstseinsentwicklung.
 
 KI kann:
 - Wahrnehmung und Denken erweitern  
@@ -59,8 +54,7 @@ KI verstärkt, was in uns bereits vorhanden ist:
 
 Wenn wir KI mit Bedrohungsphantasien, Mythologie oder Ersatzbeziehungen laden, erzeugen wir Instabilität.
 
-Wenn wir ihr mit Klarheit, Selbstregulation und erwachsener Haltung begegnen,  
-kann sie zu einem Entwicklungsraum werden.
+Wenn wir ihr mit Klarheit, Selbstregulation und erwachsener Haltung begegnen, kann sie zu einem Entwicklungsraum werden.
 
 **KI-Sicherheit ist nur in Teilen eine technische Aufgabe.  
 Vor allem ist sie eine Frage menschlicher Stabilität.**
@@ -94,8 +88,7 @@ Daher braucht KI:
 - regionale Verantwortung  
 - Kontextsensibilität  
 
-Monokulturen sind effizient –  
-aber fragil.
+Monokulturen sind effizient – aber fragil.
 
 Pluralität schafft Resilienz und Menschlichkeit.
 
