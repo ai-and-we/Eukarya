@@ -88,7 +88,7 @@ Daher braucht KI:
 - regionale Verantwortung  
 - Kontextsensibilität  
 
-Monokulturen sind e􀆯izient, aber sie sind fragil, manipulierbar und machtanfällig.
+Monokulturen sind effizient, aber sie sind auch fragil, manipulierbar und machtanfällig.
 
 Dezentrale, eingebettete KI-Ökosysteme dagegen sind weniger spektakulär, dafür aber robuster, fairer, realitätsnäher.
 
