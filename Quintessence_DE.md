@@ -16,7 +16,7 @@ sondern:
 ---
 
 ## 1️⃣ KI als Erweiterung – nicht als Ersatz
-Eukarya versteht KI nicht als Konkurrenz des Menschen, sondern als Mit-Intelligenz, nämlich als:
+Eukarya versteht KI nicht als Konkurrenz des Menschen, sondern als Mit-Intelligenz:
 
 - Erweiterung menschlicher Fähigkeiten  
 - Impulsgeberin  
