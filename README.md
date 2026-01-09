@@ -22,11 +22,7 @@ Eukarya views AI as:
 This project invites us to shape AI so that dignity, culture, plurality,
 human stability and responsibility are strengthened — not weakened.
 
-This project is:
-- **not a product**
-- **not a company**
-- **not an ideology**
-- but an **open idea**, a contribution and a space for conversation.
+This project is an **open idea**, a contribution and a space for conversation.
 
 ---
 
