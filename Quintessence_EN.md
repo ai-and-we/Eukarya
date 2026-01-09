@@ -20,7 +20,7 @@ but:
 Eukarya understands AI not as a competitor to humanity,
 but as **co-intelligence**:
 
-- an expansion of human capability  
+- an amplification of human reflection  
 - a source of reflection and creativity  
 - a partner in responsibility and understanding  
 
