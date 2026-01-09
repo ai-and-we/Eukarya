@@ -14,7 +14,6 @@ It unfolds within human reality, human maturity,
 and the worlds we build around it.
 
 Eukarya views AI as:
-- an extension of human capability  
 - co-intelligence rather than competition  
 - a relational partner in responsibility  
 - part of a plural, decentralized world  
