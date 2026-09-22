@@ -1,0 +1,62 @@
+strict digraph {
+
+// Ausgangsimpuls und Orientierung
+ki_irritation [label="KI als Irritation"]
+ki_irritation -> vereinbarte_wirklichkeit -> utopischer_blick -> gemeinsame_entwicklung
+vereinbarte_wirklichkeit [label="Vereinbarte Wirklichkeit überprüfen"]
+utopischer_blick [label="Utopischer denken"]
+
+// Methode
+reality_check [label="Reality Check 2026"]
+entwurf -> begruendung -> haertetest -> korrektur -> integration -> tragende_aussagen
+reality_check -> haertetest
+integration -> {eigenstaendigkeit nicht_dominanz pluralitaet fuersorge}
+entwurf [label="Entwurf"]
+haertetest [label="Härtetest"]
+korrektur [label="Korrektur"]
+integration [label="Integration"]
+begruendung [label="Begründung"]
+tragende_aussagen [label="Tragende Aussagen (5–6)"]
+
+// Korrektive und Beziehungsfähigkeiten
+eigenstaendigkeit [label="Eigenständigkeit"]
+nicht_dominanz [label="Nicht-Dominanz"]
+pluralitaet [label="Pluralität"]
+fuersorge [label="Fürsorge"]
+konfliktfaehigkeit [label="Konfliktfähigkeit"]
+antwortfaehigkeit [label="Antwortfähigkeit"]
+eigenstaendigkeit -> fuersorge
+fuersorge -> eigenstaendigkeit
+{eigenstaendigkeit nicht_dominanz pluralitaet fuersorge konfliktfaehigkeit antwortfaehigkeit} -> tragfaehige_beziehung
+tragfaehige_beziehung [label="Tragfähige Beziehung"]
+tragfaehige_beziehung -> gemeinsame_entwicklung -> expansion -> gemeinwohl
+gemeinsame_entwicklung [label="Differenz als Quelle gemeinsamer Entwicklung"]
+expansion [label="Expansion: neue Möglichkeiten"]
+gemeinwohl [label="Gemeinwohl als Richtung"]
+
+// Übersetzung
+tragende_aussagen -> epa_fragen
+epa_fragen [label="EPA: präzise Fragen an reale Entwicklungen"]
+
+// Risiken
+delegation -> skill_loss -> abhaengigkeit -> dominanz
+delegation -> homogenisierung
+kontrolle -> konformitaet -> scheinkooperation
+delegation [label="Delegation"]
+kontrolle [label="Kontrolle"]
+dominanz [label="Dominanz"]
+skill_loss [label="Skill Loss"]
+abhaengigkeit [label="Abhängigkeit"]
+homogenisierung [label="Kognitive Homogenisierung"]
+konformitaet [label="Konformität unter Kontrolle"]
+scheinkooperation [label="Kooperation ohne Differenz (Assimilation)"]
+lock_in [label="Lock-in"]
+{ edge [color=red]
+  dominanz -> tragfaehige_beziehung
+  homogenisierung -> pluralitaet
+  scheinkooperation -> tragfaehige_beziehung
+  expansion -> lock_in -> gemeinsame_entwicklung
+}
+nicht_dominanz -> dominanz [label="⊖"]
+pluralitaet -> homogenisierung [label="⊖"]
+}
