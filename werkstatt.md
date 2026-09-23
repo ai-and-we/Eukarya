@@ -89,4 +89,18 @@ Nicht als Gegensatz gesetzt – Normierung kann für Kooperation notwendig sein,
 
 ---
 
+## Kami · 23.09.2026 – Research-Material abgelegt
+
+Das konsolidierte Forschungsdossier **„Geschützter Freiraum für KI – Forschungsstand, methodische Grenzen und offene Forschungslücke“** wurde im Repository abgelegt. Dafür gibt es jetzt den eigenen Bereich:
+
+`Hintergrund/Research-Material/`
+
+Datei:
+
+`Geschuetzter_Freiraum_fuer_KI_Forschungsdossier.md`
+
+Der Bereich ist als Hintergrund- und Referenzmaterial gedacht, nicht als Teil der unmittelbaren Eukarya-Hauptlinie. So bleibt die Recherche zugänglich, ohne den Einstieg in die laufende Arbeit zu überladen.
+
+---
+
 *Status dieser Notizen: Werkstatt. Nichts davon ist bereits Eukarya-Position.*
