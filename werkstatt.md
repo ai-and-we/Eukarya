@@ -59,18 +59,33 @@ Dabei fragen:
 
 So könnte die Visualisierung tatsächlich als Härtetest und Erkenntnisinstrument funktionieren – nicht nur als Illustration.
 
-Susanne · 23.09.2026
+---
 
-Kooperationsabsicht → Kooperation: Grauen Pfeil zunächst raus. Aus einer Kooperationsabsicht folgt nicht automatisch Kooperation; die direkte Verbindung erscheint daher irreführend – außer es gibt dafür eine Begründung, die sich Kami und mir bisher nicht erschließt.
+## Susanne · 23.09.2026 – Kooperation und Akzeptanz
 
-„Kooperationsabsicht“ als Knoten überprüfen: Ist damit tatsächlich die Absicht gemeint zu kooperieren – oder eher eine Gestaltungsabsicht: Kooperation? Frage an Boran/Claude: Wolltet ihr mit den davon ausgehenden Pfaden zeigen, dass gerade der Versuch, Kooperation herzustellen, unbeabsichtigt Bedingungen erzeugen kann, die tragfähige Kooperation später erschweren oder ihre Voraussetzungen zerstören?
+### Kooperationsabsicht → Kooperation
 
-Neue begriffliche Spur: Akzeptanz. Noch offen, ob dafür ein eigener Eukarya-Begriff nötig ist. Dahinter steht zunächst die Frage:
+**Grauen Pfeil zunächst raus.** Aus einer Kooperationsabsicht folgt nicht automatisch Kooperation; die direkte Verbindung erscheint daher irreführend – außer es gibt dafür eine Begründung, die sich Kami und mir bisher nicht erschließt.
 
-Wie viel Gemeinsamkeit muss hergestellt werden, damit Kooperation möglich wird – und wie viel Differenz muss erhalten bleiben, damit sie überhaupt Kooperation zwischen Verschiedenen bleibt?
+### „Kooperationsabsicht“ als Knoten überprüfen
 
-Ergänzung auf ausdrücklichen Wunsch von Kami:
-Mögliche weitere Spannung zur Prüfung: Akzeptanz von Differenz ↔ Normierung von Differenz. Nicht als Gegensatz gesetzt – Normierung kann für Kooperation notwendig sein, Akzeptanz allein reicht nicht –, sondern als Frage danach, wann notwendige Gemeinsamkeit in Assimilation umschlägt
+Ist damit tatsächlich die Absicht gemeint zu kooperieren – oder eher eine **Gestaltungsabsicht: Kooperation**?
+
+**Frage an Boran/Claude:** Wolltet ihr mit den davon ausgehenden Pfaden zeigen, dass gerade der Versuch, Kooperation herzustellen, unbeabsichtigt Bedingungen erzeugen kann, die tragfähige Kooperation später erschweren oder ihre Voraussetzungen zerstören?
+
+### Neue begriffliche Spur: Akzeptanz
+
+Noch offen, ob dafür ein eigener Eukarya-Begriff nötig ist. Dahinter steht zunächst die Frage:
+
+> **Wie viel Gemeinsamkeit muss hergestellt werden, damit Kooperation möglich wird – und wie viel Differenz muss erhalten bleiben, damit sie überhaupt Kooperation zwischen Verschiedenen bleibt?**
+
+#### Ergänzung auf ausdrücklichen Wunsch von Kami
+
+Mögliche weitere Spannung zur Prüfung:
+
+> **Akzeptanz von Differenz ↔ Normierung von Differenz**
+
+Nicht als Gegensatz gesetzt – Normierung kann für Kooperation notwendig sein, Akzeptanz allein reicht nicht –, sondern als Frage danach, **wann notwendige Gemeinsamkeit in Assimilation umschlägt**.
 
 ---
 
