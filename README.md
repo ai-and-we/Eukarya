@@ -33,13 +33,13 @@ Unfertige Fragen, Einwände, Hypothesen und Arbeitsnotizen. Inhalte in der Werks
 - [`eukarya-in-pictures.md`](eukarya-in-pictures.md) – Text und grafische Strukturtests
 - [`eukarya.dot`](eukarya.dot) – Arbeitsmodell/Diagramm, soweit im Repository vorhanden
 
-## Eukarya 1.0
+## Historie / Eukarya 1.0
 
-Ältere Dateien wie die deutsch- und englischsprachige Quintessenz sowie der Hintergrundbericht dokumentieren **Eukarya 1.0 (2023/24)**. Sie bleiben als historischer Ausgangspunkt erhalten, entsprechen aber nicht dem aktuellen Stand von Eukarya 2.0.
+Die früheren Fassungen dokumentieren **Eukarya 1.0 (2023/24)**. Sie bleiben als historischer Ausgangspunkt erhalten, entsprechen aber nicht dem aktuellen Stand von Eukarya 2.0.
 
-- [Quintessenz – Deutsch](Quintessence_DE.md)
-- [Quintessence – English](Quintessence_EN.md)
-- [Background Report – German PDF](Report_DE.pdf)
+- [Quintessenz – Deutsch](Historie/Eukarya-1.0/Quintessence_DE.md)
+- [Quintessence – English](Historie/Eukarya-1.0/Quintessence_EN.md)
+- [Background Report – German PDF](Report_DE.pdf) – derzeit noch im Hauptverzeichnis; soll ebenfalls nach `Historie/Eukarya-1.0/` verschoben werden.
 
 ## Statusangaben im Repository
 
