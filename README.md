@@ -39,7 +39,7 @@ Die früheren Fassungen dokumentieren **Eukarya 1.0 (2023/24)**. Sie bleiben als
 
 - [Quintessenz – Deutsch](Historie/Eukarya-1.0/Quintessence_DE.md)
 - [Quintessence – English](Historie/Eukarya-1.0/Quintessence_EN.md)
-- [Background Report – German PDF](Report_DE.pdf) – derzeit noch im Hauptverzeichnis; soll ebenfalls nach `Historie/Eukarya-1.0/` verschoben werden.
+- [Background Report – German PDF](Report_DE.pdf) 
 
 ## Statusangaben im Repository
 
