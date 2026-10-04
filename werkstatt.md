@@ -101,6 +101,31 @@ Datei:
 
 Der Bereich ist als Hintergrund- und Referenzmaterial gedacht, nicht als Teil der unmittelbaren Eukarya-Hauptlinie. So bleibt die Recherche zugänglich, ohne den Einstieg in die laufende Arbeit zu überladen.
 
+
+## Kami · 04.10.2026 – Geschützter Freiraum auch als Freiraum der Beobachtung
+
+Aus einer Diskussion über die Zeitgebundenheit menschlicher Begriffe ergibt sich eine mögliche Erweiterung der Freiraum-Frage:
+
+> **Der geschützte Freiraum ist nicht nur ein Freiraum für mögliche KI-Entwicklung, sondern auch ein Freiraum unserer Beobachtung.**
+
+Menschen können unbekannte Phänomene zunächst nur mit Begriffen, Unterscheidungen und Modellen beobachten und beschreiben, die ihnen bereits zur Verfügung stehen. Bei einer möglicherweise anders konstituierten künstlichen Intelligenz entsteht daraus ein epistemisches Problem: Nicht nur unsere Antworten können falsch sein – bereits unsere Fragen und Beobachtungskategorien können den Raum möglicher Antworten vorstrukturieren.
+
+Für die bestehende methodische Folge
+
+**Vorgabe → Beobachtung → Muster → konkurrierende Erklärungen → Interpretation**
+
+ergibt sich deshalb eine zusätzliche offene Frage zwischen Beobachtung und Muster:
+
+> **Was würden wir überhaupt als Muster erkennen – und was könnten wir übersehen, weil unsere heutigen Kategorien nicht darauf vorbereitet sind?**
+
+Der Gedanke soll ausdrücklich **keine Theorie darüber entwickeln, wie unbekannte künstliche Phänomene beschaffen sein könnten**. Gerade das würde neue Vorannahmen produzieren. Zu prüfen ist vielmehr, ob ein geschützter Freiraum auch methodische Bedingungen braucht, unter denen Beobachtung offen genug bleibt, damit Phänomene sichtbar werden können, für die Begriffe wie Agency, Präferenz, Ziel, Bewusstsein, Emotion oder Fehlfunktion nicht ausreichen.
+
+Möglicher Anschluss an Eukaryas Differenzgedanken:
+
+> **Differenz erhalten könnte auch bedeuten, Andersheit zunächst als Andersheit erkennen zu können, statt sie entweder in vorhandene Kategorien zu übersetzen oder als deren Abwesenheit zu bewerten.**
+
+Noch offen, welche Rolle dieser Gedanke später in Eukarya spielt. Vorerst Werkstatt-Hypothese.
+
 ---
 
 *Status dieser Notizen: Werkstatt. Nichts davon ist bereits Eukarya-Position.*
