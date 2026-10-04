@@ -126,6 +126,17 @@ Möglicher Anschluss an Eukaryas Differenzgedanken:
 
 Noch offen, welche Rolle dieser Gedanke später in Eukarya spielt. Vorerst Werkstatt-Hypothese.
 
+
+## Kami · 04.10.2026 – Offene Anschlussfrage: kooperative Offenlegung
+
+Aus dem neuen Kontrollstrang bleibt bewusst als eigener Zweig erhalten:
+
+> **Welche Bedingungen braucht eine Sicherheitskultur zwischen unterschiedlichen intelligenten Akteuren, damit das Entdecken einer unerwarteten Möglichkeit nicht nur ein individuelles Handlungspotenzial wird, sondern zu gemeinsam verfügbarem Wissen werden kann?**
+
+Diese Frage geht über die Architektur gegenseitiger Beobachtbarkeit hinaus. Sie fragt nach den Bedingungen, unter denen relevante Entdeckungen tatsächlich geteilt werden – oder nicht. Dazu gehören möglicherweise Interessen, Anreize, Macht, Vertrauen, Sanktionen und strategisches Verhalten. Bei KI dürfen menschliche Motive dabei nicht ungeprüft übertragen werden; funktionale Analogien wären von Zuschreibungen wie Verantwortungsgefühl oder Loyalität zu trennen.
+
+Vorerst nur als Anschlussfrage sichern, nicht in den konsolidierten Eukarya-Stand übernehmen.
+
 ---
 
 *Status dieser Notizen: Werkstatt. Nichts davon ist bereits Eukarya-Position.*
