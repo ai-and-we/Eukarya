@@ -146,6 +146,11 @@ oder moralischer guter Wille könnten für stabile Kooperation ausreichen.
     Tragfähige Systeme müssen mit Unsicherheit, Irrtum, Konflikt und
     unerwarteten Folgen umgehen können.
 
+> Vielleicht besteht eine zukünftige Sicherheitsarchitektur für agentische
+Systeme nicht nur aus Grenzen und Überwachung, sondern zusätzlich aus
+Verfahren, durch die unterschiedliche KI- und menschliche Akteure neu
+entdeckte Handlungsmöglichkeiten gegenseitig sichtbar machen.
+
 ## 6. Die derzeitigen Korrektive
 
 Die bisherige Arbeit deutet darauf hin, dass Eukarya keine Liste
